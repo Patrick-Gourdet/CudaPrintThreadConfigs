@@ -1,0 +1,1 @@
+/usr/bin/nvcc  -g -Xcompiler=-fPIC -Wno-deprecated-gpu-targets -shared -dlink CMakeFiles/cudaLesson.dir/main.cu.o CMakeFiles/cudaLesson.dir/cudal.cu.o -o CMakeFiles/cudaLesson.dir/cmake_device_link.o  -L"/lib/x86_64-linux-gnu"

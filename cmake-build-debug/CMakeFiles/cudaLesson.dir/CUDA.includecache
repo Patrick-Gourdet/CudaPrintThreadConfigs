@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cplusplus/CLionProjects/cudaLesson/cudal.cu
+stdio.h
+-
+cstdio
+-
+driver_types.h
+-
+cuda_runtime_api.h
+-
+cudal.cuh
+/home/cplusplus/CLionProjects/cudaLesson/cudal.cuh
+
+/home/cplusplus/CLionProjects/cudaLesson/cudal.cuh
+
